@@ -1,1 +1,15 @@
-{"result":"{\n  \"baseUrl\": \"spider.ussl.co.il\/new-mexico-acreage-for-lease\",\n  \"protocol\": \"https\",\n  \"hostingWPCOM\": false,\n  \"useACF\": true,\n  \"includedRoutes\": [\n    \"**\/categories\",\n    \"**\/posts\",\n    \"**\/pages\",\n    \"**\/media\",\n    \"**\/tags\",\n    \"**\/taxonomies\",\n    \"**\/users\"\n  ]\n}\n"}
+{
+  "baseUrl": "spider.ussl.co.il/new-mexico-acreage-for-lease",
+  "protocol": "https",
+  "hostingWPCOM": false,
+  "useACF": true,
+  "includedRoutes": [
+    "**/categories",
+    "**/posts",
+    "**/pages",
+    "**/media",
+    "**/tags",
+    "**/taxonomies",
+    "**/users"
+  ]
+}
