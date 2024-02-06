@@ -11,8 +11,8 @@
   },
   "devDependencies": {
     "gatsby": "5.13.3",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "dependencies": {
     "@draftbox-co/gatsby-wordpress-balsa-theme": "^1.0.40",
@@ -28,8 +28,8 @@
     "gatsby-plugin-mailchimp": "^5.1.2",
     "gatsby-plugin-mixpanel": "^3.1.6",
     "gatsby-plugin-segment-js": "^3.1.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-facebook": "^8.1.4"
   }
 }
